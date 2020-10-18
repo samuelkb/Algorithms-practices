@@ -4,6 +4,6 @@ This repository contains several exercises from platforms like CodeWars, HackerR
 
 ## Training sites:
 
-[HackerRank](http://hackerrank.com/)
-[LeetCode](https://leetcode.com/)
-[Codewars](http://www.codewars.com/)
+- [HackerRank](http://hackerrank.com/)
+- [LeetCode](https://leetcode.com/)
+- [Codewars](http://www.codewars.com/)
